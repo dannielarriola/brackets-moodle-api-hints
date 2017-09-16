@@ -4,7 +4,7 @@
     "description": "Moodle e-learning Hints and autocomplete functions for development.",
     "homepage": "https://github.com/dannielarriola/brackets-moodle-api-hints.git",
     "version": "1.0.4",
-    "author": "daniel arriola <dannielarriola@gmail.com> (http://danielarriola.com)",
+    "author": "daniel arriola <dannielarriola@gmail.com> (https://dannielarriola.github.io)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
